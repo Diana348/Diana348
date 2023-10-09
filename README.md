@@ -1,10 +1,10 @@
-### Hi there 👋
+### Hi 👋
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&width=600&lines=Welcome+To+Diana348's+Github+Profile..)](https://git.io/typing-svg)
 
 I'm Diana and I'm a Frontend developer from Novosibirsk (city ​​in the south of Western Siberia❄️)
 
 <div id="header" align="start">
-  <img src="https://user-images.githubusercontent.com/74038190/212745723-c7c386dc-108c-4a50-9c76-0f90afb2c0fa.gif" width="480" height="480"/>
+  <img src="https://user-images.githubusercontent.com/74038190/216649426-0c2ee152-84d8-4707-85c4-27a378d2f78a.gif" width="300" height="300"/>
 </div>
 
 - 💻 I’m currently working on ReactJS
