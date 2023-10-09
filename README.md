@@ -4,10 +4,8 @@
 I'm Diana and I'm a Frontend developer from Novosibirsk (city ​​in the south of Western Siberia❄️)
 
 <div id="header" align="start">
-  <img src="https://giphy.com/gifs/BoschGlobal-coding-home-office-remote-working-umYMU8G2ixG5mJBDo5" width="200"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212745723-c7c386dc-108c-4a50-9c76-0f90afb2c0fa.gif" width="480" height="480"/>
 </div>
-
-<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/umYMU8G2ixG5mJBDo5" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/BoschGlobal-coding-home-office-remote-working-umYMU8G2ixG5mJBDo5">via GIPHY</a></p>
 
 - 💻 I’m currently working on ReactJS
 - 🎓 I’m currently learning VueJS and JS improvements
