@@ -1,4 +1,4 @@
-### Hi 👋
+### Hi <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" width="30" height="30"/>
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&width=600&lines=Welcome+To+Diana348's+Github+Profile..)](https://git.io/typing-svg)
 
 I'm Diana and I'm a Frontend developer from Novosibirsk (city ​​in the south of Western Siberia❄️)
