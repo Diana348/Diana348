@@ -1,5 +1,7 @@
 ### Hi there 👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&width=600&lines=Welcome+To+Diana348's+Github+Profile..)](https://git.io/typing-svg)
 
+I'm Diana and I'm a Frontend developer from Novosibirsk(city ​​in the south of Western Siberia)
 <!--
 **Diana348/Diana348** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
