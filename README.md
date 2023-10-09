@@ -4,7 +4,7 @@
 I'm Diana and I'm a Frontend developer from Novosibirsk(city ​​in the south of Western Siberia❄️)
 
 <div id="header" align="start">
-  <img src="https://giphy.com/embed/umYMU8G2ixG5mJBDo5"/>
+  <img src="https://giphy.com/gifs/BoschGlobal-coding-home-office-remote-working-umYMU8G2ixG5mJBDo5"/>
 </div>
 
 - 💻 I’m currently working on ReactJS
