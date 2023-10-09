@@ -1,18 +1,26 @@
 ### Hi there 👋
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&width=600&lines=Welcome+To+Diana348's+Github+Profile..)](https://git.io/typing-svg)
 
-I'm Diana and I'm a Frontend developer from Novosibirsk(city ​​in the south of Western Siberia)
-<!--
-**Diana348/Diana348** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Diana and I'm a Frontend developer from Novosibirsk(city ​​in the south of Western Siberia❄️)
 
-Here are some ideas to get you started:
+<div id="header" align="start">
+  <img src="https://giphy.com/embed/umYMU8G2ixG5mJBDo5"/>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 I’m currently working on ReactJS
+- 🎓 I’m currently learning VueJS and JS improvements
+- 💬 Ask me about Korea, skin care, dance, energy and electrical engineering.
+- 📫 How to reach me:
+  <a href="https://t.me/Diana_2830" target="blank">Telegram</a>
+  <a href="popovad30@gmail.com" target="blank">G-mail</a>
+
+  ### Technologies:
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original-wordmark.svg" title="Vuejs" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+</div>
