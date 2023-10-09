@@ -13,7 +13,7 @@ I'm Diana and I'm a Frontend developer from Novosibirsk🏤 (city ​​in the s
 
  ### Connect with me:
   - <a href="https://t.me/Diana_2830" target="blank">Telegram</a>
-  - <a href="mailto:roman.popovad30@gmail.com" target="blank">G-mail</a> 
+  - <a href="mailto:popovad30@gmail.com" target="blank">G-mail</a> 
 
   ### Technologies:
 <div>
