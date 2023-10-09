@@ -1,18 +1,21 @@
 ### Hi there 👋
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&width=600&lines=Welcome+To+Diana348's+Github+Profile..)](https://git.io/typing-svg)
 
-I'm Diana and I'm a Frontend developer from Novosibirsk(city ​​in the south of Western Siberia❄️)
+I'm Diana and I'm a Frontend developer from Novosibirsk (city ​​in the south of Western Siberia❄️)
 
 <div id="header" align="start">
-  <img src="https://giphy.com/gifs/BoschGlobal-coding-home-office-remote-working-umYMU8G2ixG5mJBDo5"/>
+  <img src="https://giphy.com/gifs/BoschGlobal-coding-home-office-remote-working-umYMU8G2ixG5mJBDo5" width="200"/>
 </div>
+
+<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/umYMU8G2ixG5mJBDo5" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/BoschGlobal-coding-home-office-remote-working-umYMU8G2ixG5mJBDo5">via GIPHY</a></p>
 
 - 💻 I’m currently working on ReactJS
 - 🎓 I’m currently learning VueJS and JS improvements
-- 💬 Ask me about Korea, skin care, dance, energy and electrical engineering.
-- 📫 How to reach me:
-  <a href="https://t.me/Diana_2830" target="blank">Telegram</a>
-  <a href="popovad30@gmail.com" target="blank">G-mail</a>
+- 💬 Ask me about Korea, skin care, dance, energy and electrical engineering
+
+ ### Connect with me:
+  - <a href="https://t.me/Diana_2830" target="blank">Telegram</a>
+  - <a href="popovad30@gmail.com" target="blank">G-mail</a>
 
   ### Technologies:
 <div>
